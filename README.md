@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## *"Truth & Josstice"* 
-What's that all about? Well, it's my usual online handle,so it's me! It's also a little bit about me!
+What's that all about? Well, it's my usual online handle, so it's me! It's also a little bit about me!
 
 😸 My name is **Joss**, pronouns are **he/him**, and I'm just getting started on the git journey! I'm constantly curious and looking to learn, so I'm looking to uncover all of the hidden truths about coding! 
 
