@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 What's that all about? Well, it's my usual online handle, so it's me! It's also a little bit about me!
 
+I live by a sense of personal and community justice, and always filter my actions through a harm-reduction mindset. The ethics of web-development are of key focus for me, as well as honest, open, and supportive collaboration. 
+
 😸 My name is **Joss**, pronouns are **he/him**! I'm constantly curious and looking to learn, so I'm looking to uncover all of the hidden truths about coding! I have always been most capable when I have to learn on the go, getting thrown in the deep end has always lead to really positive outcomes for me. So coding? That's a deep deep deep end! I am excited to learn not only what we study, but other languages and platforms.
 
 🧑‍💻 I'm currently completing a Full Stack Web Development Diploma in a BootCamp style course, which will finish up in February 2026! A list of my key skills? Sure have at it!
